@@ -11,4 +11,4 @@ function sayGM()
     console.log("Good Morning ! Pro Stack Academy");
 }
 sayGM();
-console.log("Hello Worls!");
+console.log("Hello Worls!");b
